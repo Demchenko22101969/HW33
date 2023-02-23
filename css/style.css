@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    padding: 20px 40px;
+    width: 800px;
+    height: 500px;
+    background-color: #dbd8f4;
+    border: 2px solid black;
+    margin: 20px auto;
+}
+h1 {
+    margin-bottom: 20px;
+}
+input, textarea {
+    width: 650px;
+    height: 30px;
+    border-radius: 5px;
+}
+.btn {
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    background-color: blue;
+    border-radius: 8px;
+    width: 90px;
+    height: 35px;
+    color: aliceblue;
+    text-transform: uppercase;
+}
